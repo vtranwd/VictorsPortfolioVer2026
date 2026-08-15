@@ -79,7 +79,7 @@ body {
 
 /* Hero Section */
 .hero {
-  background-image: url("assets/img/header-bg.jpg");
+  background-image: url("/assets/img/header-bg.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
