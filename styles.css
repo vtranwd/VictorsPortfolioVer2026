@@ -79,8 +79,13 @@ body {
 
 /* Hero Section */
 .hero {
-  background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
-  color: white;
+  background-image: url("assets/img/header-bg.jpg");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  background-size: cover;
+  /* background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%); */
+  /* color: white; */
   padding: 8rem 2rem;
   text-align: center;
 }
@@ -455,11 +460,6 @@ body {
 
   .hero {
     padding: 4rem 1rem;
-    background-image: url("assets/img/header-bg.jpg");
-    background-repeat: no-repeat;
-    background-attachment: scroll;
-    background-position: center center;
-    background-size: cover;
   }
 
   .hero h1 {
