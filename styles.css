@@ -91,6 +91,7 @@ body {
 }
 
 .top-homepage-text .top-support-text {
+  --text: #f5f7fa;
   --light: #f5f7fa;
 }
 
