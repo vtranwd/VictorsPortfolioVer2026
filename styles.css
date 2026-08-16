@@ -90,6 +90,10 @@ body {
   text-align: center;
 }
 
+.top-homepage-text .top-support-text {
+  --light: #f5f7fa;
+}
+
 .hero h1 {
   font-size: 3.5rem;
   margin-bottom: 1rem;
