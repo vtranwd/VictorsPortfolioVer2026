@@ -85,7 +85,7 @@ body {
   background-position: center center;
   background-size: cover;
   /* background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%); */
-  /* color: white; */
+  color: white;
   padding: 8rem 2rem;
   text-align: center;
 }
